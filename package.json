@@ -107,8 +107,7 @@
     "matrix",
     "fill",
     "filled",
-    "nans",
-    "numpy.nans"
+    "nans"
   ],
   "funding": {
     "type": "opencollective",
