@@ -18,7 +18,7 @@
 
 // TypeScript Version: 4.1
 
-/// <reference types="@stdlib/types"/>
+/// <reference types="https://cdn.jsdelivr.net/gh/stdlib-js/types@esm/index.d.ts"/>
 
 import { Shape, Order, Mode, typedndarray, float64ndarray, float32ndarray, genericndarray, complex128ndarray, complex64ndarray, FloatingPointAndGenericDataType, Float64DataType, Float32DataType, Complex128DataType, Complex64DataType, GenericDataType } from '@stdlib/types/ndarray';
 
