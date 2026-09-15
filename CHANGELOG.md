@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-20)
+## Unreleased (2026-09-15)
 
 <section class="features">
 
 ### Features
 
+-   [`83e2790`](https://github.com/stdlib-js/stdlib/commit/83e2790a1e95b65d969b50cbe9da03a7623d98cf) - add float16 dtype support to `ndarray/nans` [(#15251)](https://github.com/stdlib-js/stdlib/pull/15251)
 -   [`360877d`](https://github.com/stdlib-js/stdlib/commit/360877d131df2be59d1c0e4bf77928309519a341) - add `ndarray/nans`
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`83e2790`](https://github.com/stdlib-js/stdlib/commit/83e2790a1e95b65d969b50cbe9da03a7623d98cf) - **feat:** add float16 dtype support to `ndarray/nans` [(#15251)](https://github.com/stdlib-js/stdlib/pull/15251) _(by Samarth Kolarkar)_
 -   [`1977f92`](https://github.com/stdlib-js/stdlib/commit/1977f92944b56c40c27b23d74570f2958adc7a39) - **docs:** update documented default value for `submode` option [(#13106)](https://github.com/stdlib-js/stdlib/pull/13106) _(by Philipp Burckhardt)_
 -   [`0293981`](https://github.com/stdlib-js/stdlib/commit/0293981bc2e4dcdf3ec3f570c9326c049fe40b2c) - **docs:** replace \"array\" with \"ndarray\" in various type declarations [(#12828)](https://github.com/stdlib-js/stdlib/pull/12828) _(by Philipp Burckhardt)_
 -   [`65cbb12`](https://github.com/stdlib-js/stdlib/commit/65cbb12790028bfb02c8128daeef950e7ac3d1be) - **docs:** remove invalid numpy keyword from `ndarray/nans` [(#12125)](https://github.com/stdlib-js/stdlib/pull/12125) _(by Philipp Burckhardt)_
@@ -37,10 +39,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
+-   Samarth Kolarkar
 
 </section>
 
